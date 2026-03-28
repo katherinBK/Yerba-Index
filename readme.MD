@@ -1,8 +1,5 @@
 <div align="center">
-
-![Yerba Stablecoin Logo](file:///C:/Users/kathe/.gemini/antigravity/brain/93d991a2-348c-45cb-925b-c3440c622f21/yerba_stablecoin_logo_1772541703939.png)
-
-# 🧉 Yerba Stablecoin
+# 🧉 Yerba Security Token
 
 [![Solana](https://img.shields.io/badge/Solana-939--blockchain?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/)
 [![Anchor](https://img.shields.io/badge/Anchor-Framework-blue?style=for-the-badge&logo=anchor)](https://www.anchor-lang.com/)
