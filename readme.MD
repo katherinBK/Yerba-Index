@@ -14,7 +14,7 @@
 
 ---
 
-## 🏗️ Arquitectura del Sistema
+## Arquitectura del Sistema
 
 El programa gestiona el estado global de la stablecoin y las cuentas individuales de los usuarios para el staking.
 
